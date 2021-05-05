@@ -2,9 +2,9 @@
  
 <h3 align="center">A <b>Software Engineer</b></h3>
 
-<p><img align="left" src="https://github-readme-stats.phsequeira.vercel.app/api/top-langs/?username=phsequeira&layout=compact&theme=dark" alt="phsequeira" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phsequeira&layout=compact&theme=dark" alt="phsequeira" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.phsequeira.vercel.app/api?username=phsequeira&show_icons=true&theme=dark&hide=stars,issues" alt="phsequeira" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phsequeira&show_icons=true&theme=dark&hide=stars,issues" alt="phsequeira" /></p>
 
 <br>
 
